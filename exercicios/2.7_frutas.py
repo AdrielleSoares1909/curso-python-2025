@@ -1,5 +1,6 @@
 """ 
      EXERCICIO
+     
     Solicite ao usuário o nome de uma fruta e exiba o preço correspondente.
 
         Maçã: R$1,50
