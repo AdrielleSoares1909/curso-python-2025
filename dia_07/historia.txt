@@ -1,0 +1,14 @@
+ 
+ Curso de Python 2025 : 
+
+ Lógica de programação, 
+
+ sintaxe da linguagem Python e 
+
+ suas principais estruturas de 
+
+ dados e controle de fluxo, 
+
+ como laços de repetição e 
+
+ operadores lógicos/condicionais.
