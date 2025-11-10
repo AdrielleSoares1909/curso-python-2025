@@ -1,0 +1,7 @@
+;cep;logradouro;complemento;unidade;bairro;localidade;uf;estado;regiao;ibge;gia;ddd;siafi;erro
+0;38408-000;Rua Modesta Maria;;;Saraiva;Uberlândia;MG;Minas Gerais;Sudeste;3170206;;34;5403;
+1;38407-381;Rua Grupiara;;;Morumbi;Uberlândia;MG;Minas Gerais;Sudeste;3170206;;34;5403;
+2;;;;;;;;;;;;;;true
+3;;;;;;;;;;;;;;true
+4;38407-387;Rua Couval;;;Morumbi;Uberlândia;MG;Minas Gerais;Sudeste;3170206;;34;5403;
+5;;;;;;;;;;;;;;true
